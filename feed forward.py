@@ -1,7 +1,8 @@
 import numpy as np 
 import time
 import math 
-
+""" implement most simple neural networks the feed forward neural net from scrach and train it to do binary xor operation
+devloper-->sayansree paria"""
 class FeedForwawdNetwork:
     def __init__(self):
         """dfault constructor"""
